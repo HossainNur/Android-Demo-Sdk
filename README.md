@@ -26,9 +26,8 @@ dependencies {
 🚀 Usage
 import com.hossainnur.library.MyLibraryUtils;
 
-String message = MyLibraryUtils.greet("John");
-Log.d("LibraryOutput", message); // Output: Hello, John!
+MyLibrary.test(this, "Welcome to MyLibrary!");
 
 
 🧪 Example Output
-Hello, John!
+Welcome to MyLibrary!!
